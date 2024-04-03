@@ -1,0 +1,3 @@
+HuGetRandomByte = 0x8000B16C;
+ScaleRandomNumber = 0x800EEF80;
+PlaceHiddenBlocksMain = 0x800FC594;
